@@ -1,0 +1,33 @@
+# Python bytecode
+*.py[cod]
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+*.egg-info/
+
+# PyInstaller generated files
+/dist/
+/build/
+/*.spec
+
+# Windows system files
+Thumbs.db
+.DS_Store
+
+# Inno Setup generated files
+*.exe
+*.log
+
+# Icon files (if not needed in the repository)
+*.ico
+*.png
+
+# Log and temp files
+*.log
+*.tmp
+*.bak
+
